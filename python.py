@@ -32,7 +32,7 @@ U1ECHO = 6
 U2TRIG = 12
 U2ECHO = 13
 # API ENDPOINT
-API = 'http://melifay.com/api.php'
+API = 'http://deneme.com/api.php'
 
 
 # -------------------------------------------------- #
